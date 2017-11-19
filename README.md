@@ -1,2 +1,0 @@
-# ThinkPHP
-Learn
